@@ -4,7 +4,11 @@ Name: Jigarahemad K Shaikh  Roll Number: DA25M014
 
 📂 File Required for Evaluation – DA5401_DA25M014_Assignment_7_Final.ipynb
 
+
 Dataset: 🔗 [UCI Statlog (Landsat Satellite)](https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite))
+OR
+📁 Data Folder:
+All input datasets required for this assignment are stored in the "Data/" folder located within the repository.
 
 
 Title: Model Selection in Multi-Class Classification using ROC and PRC Analysis
