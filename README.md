@@ -2,7 +2,7 @@
 
 Name: Jigarahemad K Shaikh  Roll Number: DA25M014
 
-📂 File Required for Evaluation – DA5401_DA25M014_Assignment_7_Final.ipynb
+📂 File Required for Evaluation – DA5401_DA25M014_Assignment_7_Final_Version.ipynb
 
 
 Dataset: 🔗 [UCI Statlog (Landsat Satellite)](https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite))
