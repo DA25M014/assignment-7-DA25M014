@@ -4,6 +4,9 @@ Name: Jigarahemad K Shaikh  Roll Number: DA25M014
 
 📂 File Required for Evaluation – DA5401_DA25M014_Assignment_7_Final.ipynb
 
+Dataset: 🔗 [UCI Statlog (Landsat Satellite)](https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite))
+
+
 Title: Model Selection in Multi-Class Classification using ROC and PRC Analysis
 
 This notebook evaluates multiple classification algorithms using macro-averaged ROC-AUC and Precision–Recall (PRC) Average Precision (AP) metrics on a six-class satellite dataset.
