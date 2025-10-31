@@ -6,7 +6,9 @@ Name: Jigarahemad K Shaikh  Roll Number: DA25M014
 
 
 Dataset: 🔗 [UCI Statlog (Landsat Satellite)](https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite))
+
 OR
+
 📁 Data Folder:
 All input datasets required for this assignment are stored in the "Data/" folder located within the repository.
 
